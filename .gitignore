@@ -1,0 +1,7 @@
+# Ignore virtual environments
+text_env/
+
+artifact/
+
+
+
