@@ -1,7 +1,11 @@
 # Ignore virtual environments
 text_env/
 
-artifact/
+artifacts/
+
+research/logs/
+
+logs/
 
 
 
